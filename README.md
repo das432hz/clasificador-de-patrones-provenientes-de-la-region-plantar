@@ -1,0 +1,1 @@
+# clasificador-de-patrones-provenientes-de-la-region-plantar
